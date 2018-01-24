@@ -1,6 +1,4 @@
 #Samantha Stinson
-#MAy 4,2015
-#Mr.Cardinale
 
 #Exam Project-Part 2
 #Medical File Search Program
